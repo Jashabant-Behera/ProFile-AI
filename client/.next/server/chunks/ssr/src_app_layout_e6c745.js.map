@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file://D%3A/Jeet/projects/React/ProFile%20AI/ProFile-AI/client/src/app/layout.js"],"sourcesContent":["import Head from \"next/head\";\r\nimport { NextUIProvider } from \"@nextui-org/react\";\r\n\r\nexport const metadata = {\r\n  title: \"ProFile-AI\",\r\n  description: \"AI-powered Resume & Cover Letter Generator\",\r\n};\r\n\r\nexport default function RootLayout({ children }) {\r\n  return (\r\n    <html lang=\"en\">\r\n      <Head>\r\n        <link rel=\"icon\" type=\"image/png\" href=\"/favicon.ico\" />\r\n      </Head>\r\n      <NextUIProvider>{children}</NextUIProvider>\r\n    </html>\r\n  );\r\n}"],"names":[],"mappings":";;;;;AAAA;AACA;;;;AAEO,MAAM,WAAW;IACtB,OAAO;IACP,aAAa;AACf;AAEe,SAAS,WAAW,EAAE,QAAQ,EAAE;IAC7C,qBACE,8OAAC;QAAK,MAAK;;0BACT,8OAAC,oKAAA,CAAA,UAAI;0BACH,cAAA,8OAAC;oBAAK,KAAI;oBAAO,MAAK;oBAAY,MAAK;;;;;;;;;;;0BAEzC,8OAAC,2KAAA,CAAA,iBAAc;0BAAE;;;;;;;;;;;;AAGvB"}},
+    {"offset": {"line": 54, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

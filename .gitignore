@@ -1,0 +1,14 @@
+# Root-level ignores
+node_modules
+.env
+.DS_Store
+
+# Build files
+dist
+build
+
+# Logs
+*.log
+
+# System files
+Thumbs.db
