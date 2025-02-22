@@ -51,7 +51,7 @@ Backend Deployment on Render
 
 Installation (Local Development)
 1. Clone the Repository:
-git clone https://github.com/username/ProFile-AI.git
+git clone https://github.com/Jashabant-Behera/ProFile-AI.git
 cd ProFile-AI
 
 2. Frontend Setup:
