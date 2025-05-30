@@ -8,10 +8,15 @@ the job description and resume content.
 
 Key Features
 ✅ Resume Analysis: Upload your resume to receive insights on its ATS-friendliness.
+
 ✅ Cover Letter Generation: Generate tailored cover letters aligned with the job description.
+
 ✅ PDF Upload Support: Accepts resumes in PDF format and extracts text using PDF Parse.
+
 ✅ Secure Data Storage: Stores uploaded files securely using Supabase.
+
 ✅ Real-time AI Responses: Utilizes OpenAI API for instant resume feedback and cover letter generation.
+
 
 Technology Stack
 Frontend:
@@ -84,8 +89,11 @@ Usage
 
 Security Measures
 ✅ Environment variables are used to protect sensitive keys.
+
 ✅ Uploaded files are securely stored in Supabase.
+
 ✅ CORS policies are configured to prevent unauthorized access.
+
 
 Future Enhancements
 - Add support for DOCX files.
