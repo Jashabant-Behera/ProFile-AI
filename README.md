@@ -7,6 +7,7 @@ The platform analyzes uploaded resumes for Applicant Tracking System (ATS) compa
 the job description and resume content.
 
 Key Features
+
 ✅ Resume Analysis: Upload your resume to receive insights on its ATS-friendliness.
 
 ✅ Cover Letter Generation: Generate tailored cover letters aligned with the job description.
