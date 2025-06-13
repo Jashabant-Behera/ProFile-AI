@@ -23,7 +23,7 @@ export default function RootLayout({ children }) {
 					</div>
 					<div className="github-container">
 						<a
-							href="https://github.com/yourusername/your-repo"
+							href="https://github.com/Jashabant-Behera/ProFile-AI"
 							target="_blank"
 							rel="noopener noreferrer"
 							className="github-corner"
